@@ -1,4 +1,4 @@
-![logo](https://github.com/JainProgramingColony/JainProgramingColony/blob/main/Google%20iMAGE.jpeg)  
+![logo](https://github.com/jainpragyeshh28/jainpragyeshh28/blob/main/Google%20iMAGE.jpeg)  
 <h1 align="center">Welcome to my GitHub Profile! 👋, I'm Pragyesh Jain</h1>
 <h3 align="center">Pursuring B.Tech CSE (with Specialization in AI/ML/DL) || Studied at Teerthanker Mahaveer University || Proficient in C & Python ||</h3>
 
