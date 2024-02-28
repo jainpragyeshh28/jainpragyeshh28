@@ -45,7 +45,7 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jainprogramingcolony&show_icons=true&locale=en&layout=compact" alt="jainprogramingcolony" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jainpragyeshh28&show_icons=true&locale=en&layout=compact" alt="jainpragyeshh28" /></p>
 <br><br><br><br><br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jainprogramingcolony&show_icons=true&locale=en" alt="jainprogramingcolony" /></p> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jainprogramingcolony&theme=default" alt="jainprogramingcolony" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jainpragyeshh28&show_icons=true&locale=en" alt="jainpragyeshh28" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jainpragyeshh28&theme=default" alt="jainpragyeshh28" /></p>
