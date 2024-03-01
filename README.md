@@ -15,7 +15,7 @@
 
 - 🌱 Currently, I’m learning **Python Programming** from YouTube.
 
-- 👨💻 All of my repositiry are available at [here](https://github.com/JainProgramingColony?tab=repositories)
+- 👨💻 All of my repositiry are available at [here](https://github.com/jainpragyeshh28?tab=repositories)
 
 - 💬 Ask me **anything about myself or any questions related to my Repositories!**
 
