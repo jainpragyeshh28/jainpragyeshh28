@@ -7,12 +7,11 @@
 
 <br><br><br><br><br><br><br><br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainprogramingcolony&label=Profile%20views&color=0e75b6&style=flat" alt="jainprogramingcolony" width="150" height="25" /> </p>
-
 <p align="left"> <a href="https://www.instagram.com/technocrat_ai.jain/" target="blank"><img src="https://img.shields.io/twitter/follow/technocrat_ai.jain?logo=instagram&style=the-badge" alt=""Pragyesh Jain Instagram Profile" width="250" height="25"/></a> </p>
 <p align="left"> <a href="https://twitter.com/the_pragyeshji/" target="blank"><img src="https://img.shields.io/twitter/follow/technocrat_ai.jain?logo=twitter&style=the-badge" alt=""Pragyesh Jain Instagram Profile" width="250" height="25"/></a> </p>
 
 
-- 🔭 Currently working on my **Skills & CGPA**
+- 🔭 Currently working on my **Skills with CGPA**
 
 - 🌱 learning **Python Programming**.
 
