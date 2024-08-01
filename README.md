@@ -7,12 +7,12 @@
 
 <br><br><br><br><br><br><br><br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainprogramingcolony&label=Profile%20views&color=0e75b6&style=flat" alt="jainprogramingcolony" width="150" height="25" /> </p>
-<p align="left"> <a href="https://www.instagram.com/technocrat_ai.jain/" target="blank"><img src="https://img.shields.io/twitter/follow/technocrat_ai.jain?logo=instagram&style=the-badge" alt=""Pragyesh Jain Instagram Profile" width="250" height="25"/></a> </p>
+<p align="left"> <a href="https://www.instagram.com/_the.pragyeshj._/" target="blank"><img src="https://img.shields.io/twitter/follow/technocrat_ai.jain?logo=instagram&style=the-badge" alt=""Pragyesh Jain Instagram Profile" width="250" height="25"/></a> </p>
 
 
-- 🔭 Currently working on my **Skills with CGPA**
+- 🔭 Currently working on **a new Project**
 
-- 🌱 learning **Python Programming**.
+- 🌱 learning **Data Structure & Algorithims**.
 
 - 👯 I’m looking to collaborate on **AI/ML Based projects**
 
@@ -29,7 +29,7 @@
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
 <a href="https://twitter.com/the_pragyeshji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_pragyeshji" height="30" width="40" /></a>
-<a href="https://instagram.com/technocrat_ai.jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="technocrat_ai.jain" height="30" width="40" /></a>
+<a href="https://instagram.com/_the.pragyeshj._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="technocrat_ai.jain" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jainai-technocrat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jainai-technocrat" height="30" width="40" /></a>
 <a href="https://kaggle.com/pragyeshjain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/pragyeshjain" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jainprogrammingcolony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jainprogrammingcolony" height="30" width="40" /></a>
