@@ -14,7 +14,7 @@
 
 - 🌱 learning **Web Devlopment**.
 
-- 👯 I’m looking to collaborate on **AI/ML Based projects**
+- 👯 I’m looking to collaborate on **new projects**
 
 - 👨💻 All of my repositiry are available at [here](https://github.com/jainpragyeshh28?tab=repositories)
 
