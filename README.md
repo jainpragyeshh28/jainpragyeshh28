@@ -12,7 +12,7 @@
 
 - 🔭 Currently working on **a new Project**
 
-- 🌱 learning **Data Structure & Algorithims**.
+- 🌱 learning **Web Devlopment**.
 
 - 👯 I’m looking to collaborate on **AI/ML Based projects**
 
